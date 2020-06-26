@@ -1,3 +1,7 @@
+/*
+Uri Online Judge (1018)
+
+*/
 #include<stdio.h>
 #include<math.h>
 int main()
