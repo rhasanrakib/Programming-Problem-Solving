@@ -11,7 +11,7 @@ int main() {
 	while (cases--)
 	{
 		cin >> n;
-		result = n % 10 + (n / 10000) % 10000;
+		result = n % 10 + (n / 10000);
 		cout << "Sum = " << result << endl;
 
 
